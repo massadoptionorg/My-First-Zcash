@@ -1,4 +1,4 @@
-My First Zcash is an educational workbook created by a team of talented and dedicated content creators and designers from across the Zcash global community.
+My First Zcash is an educational workbook created by a team of talented and dedicated content creators and graphic designers from across the Zcash global community.
 
 We invite you to download the PDF from this repo or view the flipbook edition, which is available at: https://midd.me/nbp2
 
