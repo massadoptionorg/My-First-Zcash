@@ -5,6 +5,9 @@ We invite you to download the PDF from this repo or view the flipbook edition, w
 Future iterations and translations are planned, get involved over on at the Zcash Global Discord server: https://discord.gg/F6DCkCDK
 
 
+-----
+
+
 License
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
 
